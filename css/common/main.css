@@ -122,3 +122,11 @@ visibility: visible;
 
   .cursor-outer.cursor-hover {
     opacity: 0; }
+
+
+    /* Media queries at the bottom */
+    @media (min-width: 420px) {
+      .cta-button {
+        font-size: 1.7em;
+      }
+    }
